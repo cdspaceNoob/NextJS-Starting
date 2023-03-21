@@ -1,6 +1,6 @@
 # NextJS-Starting
 
-% npx create-next-app
+% npx create-next-app <br>
 select options.
 
 - Install NVM for nodeJS
