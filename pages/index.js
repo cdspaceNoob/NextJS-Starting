@@ -1,3 +1,5 @@
+// domain.com/
+
 const HomePage = () => {
     return <h1>The HomePage</h1>
 }
